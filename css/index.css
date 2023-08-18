@@ -1,0 +1,69 @@
+html {
+    font-size: 16px;
+}
+.main-header-menu-item a:hover {
+    color: red;
+    cursor: pointer;
+}
+button:hover {
+    cursor: pointer;
+    background-color: aquamarine;
+    color: red;
+}
+.main-header-menu-item a:focus {
+    color: red;
+}
+.contacts a:hover {
+    color: red;
+    cursor: pointer;
+}
+.contacts a:focus {
+    color: red;
+}
+button:focus {
+    background-color: yellow;
+}
+a:visited {
+    color: orange;
+}
+.barbershop-heading {
+    color: white;
+    ;
+}
+.hero {
+    background-color: black
+}
+.main-header {
+    background: rgb(255, 255, 100);
+}
+.about-1 {
+    background: rgba(0, 100, 100, .20);
+}
+.main-header-menu-link,
+.addressee {
+    text-decoration: none;
+}
+.button-contacts {
+    text-transform: lowercase;
+    width: 130px;
+    white-space: nowrap;
+    font-weight: 700;
+}
+.we-are-team {
+    text-align: right;
+}
+.barbershop-heading-subtext {
+    color: white;
+    text-indent: 50px;
+    line-height: 1em;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+.yada-yada {
+    color: white;
+    white-space: nowrap;
+    text-shadow: 2px 2px 1px red;
+}
+.main-header-menu-link {
+    font-family: 'Open Sans'
+}
